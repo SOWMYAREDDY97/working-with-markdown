@@ -98,6 +98,6 @@ dcase@nwmissouri.edu
 
 - one
 - two
-
+-three
 ![image](https://tinyjpg.com/images/social/website.jpg)
 ![image2](Untitled.png)
